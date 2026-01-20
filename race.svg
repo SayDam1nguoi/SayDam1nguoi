@@ -10,11 +10,7 @@
   <line x1="40" y1="100" x2="760" y2="100" stroke="#444" stroke-width="2"/>
   <line x1="40" y1="130" x2="760" y2="130" stroke="#444" stroke-width="2"/>
 
-  <!-- Start & Finish -->
-  <text x="10" y="85" fill="#aaa" font-size="12">START</text>
-  <text x="740" y="85" fill="#aaa" font-size="12">FINISH</text>
-
-  <!-- Horses (Head only) -->
+  <!-- Horses (head only, looping) -->
   <text y="45" font-size="22">🐴
     <animate attributeName="x" from="40" to="720" dur="4s" repeatCount="indefinite"/>
   </text>
