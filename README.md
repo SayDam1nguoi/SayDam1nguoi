@@ -3,13 +3,6 @@
 </p>
 
 <p align="center">
-🏁 ━━━━━━━━━━━━━━━━━━━━━━━━━ 🏁
+  <img src="race.svg" />
 </p>
 
-<p align="center">
-🐎 💨 &nbsp;&nbsp; 🐎 💨 &nbsp;&nbsp; 🐎 💨 &nbsp;&nbsp; 🐎 💨 &nbsp;&nbsp; 🐎 💨
-</p>
-
-<p align="center">
-🌱 Umamusume fan | Race starts every day 🌱
-</p>
