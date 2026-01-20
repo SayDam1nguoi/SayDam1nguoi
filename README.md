@@ -3,6 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="race.svg" />
+  <img src="horse_race.svg" />
 </p>
 
